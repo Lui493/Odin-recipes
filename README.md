@@ -1,2 +1,2 @@
 # Odin-recipes
-First HTML & CSS project :)
+First HTML project :)
